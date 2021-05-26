@@ -1,7 +1,7 @@
 ## DS102 Project - Building Energy Efficiency Analysis and Green Mark Rating Prediction Overview
 * Sought to understand the relationship between a commercial building's characteristics and it's energy efficiency in Singapore
 * Utilized Linear Regression and Decision Tree to predict Green Mark Rating
-* Plotted geographical locations of these buildings, coloured based on their Green Mark Rating, to identify areas 
+* Plotted geographical locations of these buildings, coloured based on their Green Mark Rating, to visualize high and low energy intensity building zones
 
 ## Code and resources used
 **Python Version:** 3.7
