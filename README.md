@@ -5,7 +5,7 @@
 
 ---
 
-1. Green Mark is a green building rating system of the Building and Construction Authority of Singapore designed to evaluate a building’s environmental impact and performance
+1. [Green Mark](https://www1.bca.gov.sg/buildsg/sustainability/green-mark-certification-scheme) is a green building rating system of the Building and Construction Authority of Singapore designed to evaluate a building’s environmental impact and performance
 
 ## Code and resources used
 **Python Version:** 3.7
