@@ -1,4 +1,4 @@
-## Hackwagon DS102 Project - Building Energy Efficiency Analysis and Green Mark Rating Prediction Overview
+## Hackwagon DS102 Project - Building Sustainability Analysis Overview
 * Sought to understand the relationship between a commercial building's characteristics and its energy efficiency in Singapore
 * Utilized Linear Regression and Decision Tree to predict Green Mark Rating
 * Plotted geographical locations of these buildings, coloured based on their Green Mark Rating, to visualize high and low energy intensity building zones
